@@ -1,0 +1,6 @@
+Now, imagine that you're working on a project with many people, and at a certain time,
+someone says that the project should go back to the beginning, where it was just few functions.
+For this, there's the git log and the git revert id command, you can use git log to get the
+id of the commit which you want to go back. It don't delete the changes!! It just create a new
+commit to say that a revert has been made, so you can work freely and without problems if
+you want to go back to the advanced moment of the project.
