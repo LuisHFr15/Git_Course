@@ -2,3 +2,6 @@ Now, what if I want to delete a commit?...
 
 To do this, the command git reset --hard id, so you get back to this point and delete EVERYTHING
 that was did after this commit (use it carefuly)
+
+Now, what if I want to change the last commit? git reset is also the command, but with the 
+--ammend -m "msg" to change the message
