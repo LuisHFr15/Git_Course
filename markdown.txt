@@ -1,0 +1,8 @@
+To create better READMEs, or use in Jupyter Notebooks
+
+https://www.alura.com.br/artigos/escrever-bom-readme?_gl=1*14hqbt1*_ga*MjkzMzM4MjEyLjE2OTg5NTg3Nzk.*_ga_1EPWSW3PCS*MTY5ODk3MTI4NC4yLjEuMTY5ODk3NTk0NC4wLjAuMA..*_fplc*dnolMkZRVEg3cjJFV1pkWmc5TmpmdU82djQ3bFlHaHVLMlJUUHlpJTJCbmxLcGNmcmJOZ3lBcVc2aFdWUVlxWmtmaTdWTnNxbFNFOE5QdTZGaDJBV2FCJTJGOGtHYmlDeFFTcjlDaEhlOFNTNmxTanJEWiUyRlREeW1iRTBTZnNLdTgyTHclM0QlM0Q.
+https://www.alura.com.br/artigos/como-trabalhar-com-markdown
+https://wordpress.com/support/markdown-quick-reference/
+
+Creating your own README!
+https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github?_gl=1*1lraznw*_ga*MjkzMzM4MjEyLjE2OTg5NTg3Nzk.*_ga_1EPWSW3PCS*MTY5ODk3MTI4NC4yLjEuMTY5ODk3NjAyOS4wLjAuMA..*_fplc*dnolMkZRVEg3cjJFV1pkWmc5TmpmdU82djQ3bFlHaHVLMlJUUHlpJTJCbmxLcGNmcmJOZ3lBcVc2aFdWUVlxWmtmaTdWTnNxbFNFOE5QdTZGaDJBV2FCJTJGOGtHYmlDeFFTcjlDaEhlOFNTNmxTanJEWiUyRlREeW1iRTBTZnNLdTgyTHclM0QlM0Q.
