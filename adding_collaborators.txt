@@ -1,0 +1,9 @@
+Imagine the following situation: you have a repository, like this one, and you're going to
+work with a friend, a co-worker, it doesn't matter right now who's going to work with you.
+So, you have many files, and your repository is public, your co-worker can clone the repository,
+do some modifies in some files, but it can't push it to the repository, why?
+Because you need to add collaborators to your repository!
+
+You can do it on GitHub, in the repository settings, add collaborators and send a invite!
+With the git log command you can see the commits' historic, who did and what did, that's why
+commits messages are so important!
